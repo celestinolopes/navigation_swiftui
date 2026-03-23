@@ -1,42 +1,43 @@
-# 📱 Navigation SwiftUI
+#  Navigation SwiftUI
 
-A study project demonstrating navigation patterns in **SwiftUI**, exploring different approaches to managing screen transitions and app flow in iOS applications.
+A study project demonstrating navigation patterns in **SwiftUI**, focused on building practical skills for managing screen flow and user interaction in iOS applications.
 
 ##  Purpose
 
-This project aims to showcase how to implement navigation in SwiftUI, including:
+This project was developed as a hands-on exercise to practice core SwiftUI concepts, including:
 
-* Navigation between screens
-* Usage of `NavigationStack` and `NavigationLink`
-* Programmatic navigation
-* Route organization and management
+* Navigation between screens using `NavigationStack` and `NavigationLink`
+* Passing data between views
+* Handling user input with components like `TextField`
+* Managing state to control navigation flow
 
-SwiftUI navigation has evolved significantly, especially since iOS 16, introducing more powerful and flexible APIs.
+The goal is to better understand how data and navigation interact in real-world SwiftUI applications.
 
 ---
 
-## 🧠 Concepts Covered
+##  Concepts Practiced
 
 * `NavigationStack`
 * `NavigationLink`
-* State-driven navigation
-* Passing data between views
-* Basic navigation architecture
+* Programmatic navigation
+* State-driven UI updates
+* Passing data between screens
+* User input handling (`TextField`)
+* Basic app structure organization
 
+---
  
 
-## Technologies
+##  Technologies
 
 * Swift
 * SwiftUI
 * Xcode
 
-  
+ 
 ##  Author
 
 Developed by **Celestino Lopes**
 
 * GitHub: https://github.com/celestinolopes
-* Linkedin: https://www.linkedin.com/in/celestino-lopes-0817001a0/
-
-
+* Lindedin: https://www.linkedin.com/in/celestino-lopes-0817001a0/
